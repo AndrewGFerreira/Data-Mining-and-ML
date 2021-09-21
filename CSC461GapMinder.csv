@@ -1,0 +1,185 @@
+name,region,year,life_exp,income
+Afghanistan,asia,2020,64.41,1850
+Angola,africa,2020,65.36,5440
+Albania,europe,2020,78.58,13800
+United Arab Emirates,asia,2020,73.77,65100
+Argentina,americas,2020,77.1,17200
+Armenia,europe,2020,76.04,10700
+Antigua and Barbuda,americas,2020,77.41,25400
+Australia,asia,2020,82.85,46200
+Austria,europe,2020,82.11,47800
+Azerbaijan,europe,2020,71.18,16500
+Burundi,africa,2020,62.58,613
+Belgium,europe,2020,81.86,44200
+Benin,africa,2020,65.58,2400
+Burkina Faso,africa,2020,62.91,1920
+Bangladesh,asia,2020,73.94,4670
+Bulgaria,europe,2020,75.24,21700
+Bahrain,asia,2020,79.89,42100
+Bahamas,americas,2020,74.23,28600
+Bosnia and Herzegovina,europe,2020,77.14,13800
+Belarus,europe,2020,74.63,18300
+Belize,americas,2020,74.55,7720
+Bolivia,americas,2020,73.6,7480
+Brazil,americas,2020,76.14,14800
+Barbados,americas,2020,77.45,16900
+Brunei,asia,2020,75.76,76900
+Bhutan,asia,2020,75.04,10700
+Botswana,africa,2020,70.05,17900
+Central African Republic,africa,2020,53.3,841
+Canada,americas,2020,82.32,44900
+Switzerland,europe,2020,84.41,59300
+Chile,americas,2020,80.12,23800
+China,asia,2020,77.7,19100
+Cote d'Ivoire,africa,2020,63.68,4270
+Cameroon,africa,2020,64.18,3520
+"Congo, Dem. Rep.",africa,2020,63.35,848
+"Congo, Rep.",africa,2020,63.48,5080
+Colombia,americas,2020,80.67,14400
+Comoros,africa,2020,69.29,2540
+Cape Verde,africa,2020,76.39,7440
+Costa Rica,americas,2020,80.02,16300
+Cuba,americas,2020,78.64,8620
+Cyprus,europe,2020,82.19,35700
+Czech Republic,europe,2020,79.63,35900
+Germany,europe,2020,81.07,47400
+Djibouti,africa,2020,68.98,3830
+Denmark,europe,2020,81.11,49500
+Dominican Republic,americas,2020,73.65,17800
+Algeria,africa,2020,78.31,14000
+Ecuador,americas,2020,77.37,10100
+Egypt,africa,2020,71.13,12200
+Eritrea,africa,2020,63.76,1450
+Spain,europe,2020,83.46,36600
+Estonia,europe,2020,78.63,33800
+Ethiopia,africa,2020,69.51,2110
+Finland,europe,2020,81.94,43500
+Fiji,asia,2020,68.39,10500
+France,europe,2020,83.2,40800
+"Micronesia, Fed. Sts.",asia,2020,67.59,3280
+Gabon,africa,2020,69.28,16900
+United Kingdom,europe,2020,81.23,41100
+Georgia,europe,2020,73.33,11800
+Ghana,africa,2020,66.41,4710
+Guinea,africa,2020,61.98,2580
+Gambia,africa,2020,66.78,1660
+Guinea-Bissau,africa,2020,60.99,1720
+Equatorial Guinea,africa,2020,66.64,16200
+Greece,europe,2020,81.49,26900
+Grenada,americas,2020,74.15,15000
+Guatemala,americas,2020,73.33,7850
+Guyana,americas,2020,69.6,8480
+"Hong Kong, China",asia,2020,84.6,58300
+Honduras,americas,2020,74.52,4800
+Croatia,europe,2020,78.98,26200
+Haiti,americas,2020,66,1650
+Hungary,europe,2020,77.34,31600
+Indonesia,asia,2020,72.1,13100
+India,asia,2020,69.69,8100
+Ireland,europe,2020,82.46,75700
+Iran,asia,2020,77.96,15900
+Iraq,asia,2020,77.22,16200
+Iceland,europe,2020,83.16,47800
+Israel,asia,2020,83.43,34800
+Italy,europe,2020,83.64,36400
+Jamaica,americas,2020,74.98,8440
+Jordan,asia,2020,79.72,8560
+Japan,asia,2020,84.66,40400
+Kazakhstan,asia,2020,73.07,26600
+Kenya,africa,2020,66.94,3360
+Kyrgyz Republic,asia,2020,73.12,3610
+Cambodia,asia,2020,70.65,4510
+Kiribati,asia,2020,63.11,2070
+South Korea,asia,2020,83.16,38900
+Kuwait,asia,2020,83.43,64200
+Lao,asia,2020,68.53,7670
+Lebanon,asia,2020,78.14,12300
+Liberia,africa,2020,65.55,1110
+Libya,africa,2020,73.52,14500
+St. Lucia,americas,2020,75.97,13100
+Sri Lanka,asia,2020,77.97,12800
+Lesotho,africa,2020,56.61,2970
+Lithuania,europe,2020,75.61,34600
+Luxembourg,europe,2020,82.11,95800
+Latvia,europe,2020,75.54,29000
+Morocco,africa,2020,74.64,8220
+Moldova,europe,2020,73.19,7250
+Madagascar,africa,2020,64.54,1560
+Maldives,asia,2020,82.37,15400
+Mexico,americas,2020,75.71,18300
+Mali,africa,2020,63.27,2180
+Malta,europe,2020,81.45,41300
+Myanmar,asia,2020,69.33,6970
+Montenegro,europe,2020,76.84,18700
+Mongolia,asia,2020,69.49,13600
+Mozambique,africa,2020,60.39,1220
+Mauritania,africa,2020,71.25,4170
+Mauritius,africa,2020,75.16,23600
+Malawi,africa,2020,64.63,1240
+Malaysia,asia,2020,75.2,31000
+Namibia,africa,2020,67.57,9720
+Niger,africa,2020,63.57,991
+Nigeria,africa,2020,65.63,5300
+Nicaragua,americas,2020,79.47,4480
+Netherlands,europe,2020,81.93,51800
+Norway,europe,2020,82.74,68200
+Nepal,asia,2020,71.83,3150
+New Zealand,asia,2020,82.07,37000
+Oman,asia,2020,77.78,36400
+Pakistan,asia,2020,67.33,5080
+Panama,americas,2020,79.83,25100
+Peru,americas,2020,81.01,13700
+Philippines,asia,2020,70.13,9040
+Papua New Guinea,asia,2020,59.15,3970
+Poland,europe,2020,78.55,31700
+North Korea,asia,2020,72.54,1720
+Portugal,europe,2020,82.02,30300
+Paraguay,americas,2020,76.5,12700
+Palestine,asia,2020,77.34,4700
+Qatar,asia,2020,80.59,119000
+Romania,europe,2020,75.57,27200
+Russia,europe,2020,72.68,26700
+Rwanda,africa,2020,69.45,2360
+Saudi Arabia,asia,2020,77.27,48300
+Sudan,africa,2020,71.01,4580
+Senegal,africa,2020,68.89,3740
+Singapore,asia,2020,85.29,91400
+Solomon Islands,asia,2020,68.99,2180
+Sierra Leone,africa,2020,61.73,1540
+El Salvador,americas,2020,74.68,7710
+Somalia,africa,2020,59.54,636
+Serbia,europe,2020,76.17,18200
+South Sudan,africa,2020,60,1980
+Sao Tome and Principe,africa,2020,67.49,3140
+Suriname,americas,2020,72.39,14300
+Slovak Republic,europe,2020,77.87,33800
+Slovenia,europe,2020,81.56,35600
+Sweden,europe,2020,82.93,48000
+Seychelles,africa,2020,73.83,29400
+Syria,asia,2020,72.43,2930
+Chad,africa,2020,60.92,1830
+Togo,africa,2020,65.28,1700
+Thailand,asia,2020,78.78,18500
+Tajikistan,asia,2020,70.97,3310
+Turkmenistan,asia,2020,70.47,19400
+Timor-Leste,asia,2020,71.53,6090
+Tonga,asia,2020,72.09,6310
+Trinidad and Tobago,americas,2020,74.63,29400
+Tunisia,africa,2020,78.93,11500
+Turkey,europe,2020,79.73,25900
+Taiwan,asia,2020,80.46,45800
+Tanzania,africa,2020,68.11,3150
+Uganda,africa,2020,66.97,1980
+Ukraine,europe,2020,70.88,9080
+Uruguay,americas,2020,77.47,21900
+United States,americas,2020,78.63,58200
+Uzbekistan,asia,2020,70.81,7100
+St. Vincent and the Grenadines,americas,2020,72.65,11700
+Venezuela,americas,2020,75.1,8600
+Vietnam,asia,2020,74.78,7760
+Vanuatu,asia,2020,65.13,2930
+Samoa,asia,2020,73.28,6540
+Yemen,asia,2020,68.16,2580
+South Africa,africa,2020,67.19,12000
+Zambia,africa,2020,64.35,3600
+Zimbabwe,africa,2020,62.29,2420
